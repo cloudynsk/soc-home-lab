@@ -33,6 +33,8 @@ Wazuh dashboard / Threat Hunting
 
 The lab was hosted in VirtualBox using an isolated private lab network. Internet access and lab-internal monitoring traffic were separated through distinct virtual adapters.
 
+[Read the detailed architecture notes](docs/architecture.md)
+
 ## What was implemented
 
 - Ubuntu-based Wazuh manager, indexer, dashboard, and Filebeat stack.
